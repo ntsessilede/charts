@@ -239,7 +239,6 @@ affinity: {}
 
 ## @param extraArgs Additional container arguments
 extraArgs: 
-extraArgs: 
   - "-cert=/etc/tls/tls.crt"
   - "-key=/etc/tls/tls.key"
   - "-port=443"
