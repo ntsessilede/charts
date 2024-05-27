@@ -98,7 +98,7 @@ securityContext: {}
 
 containerPorts:
   ## @param containerPorts.http Container port for HTTP
-  tcp: 443
+  http: 443
 
 livenessProbe:
   ## @param livenessProbe.enabled Enable liveness probe
