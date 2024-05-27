@@ -184,7 +184,7 @@ service:
 
   ports:
     ## @param service.ports.http Service port for HTTP
-    tcp: 443
+    http: 443
 
   nodePorts:
     ## @param service.nodePorts.http Service node port for HTTP when service type is LoadBalancer or NodePort
