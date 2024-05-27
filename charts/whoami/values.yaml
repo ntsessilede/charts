@@ -241,10 +241,15 @@ affinity: {}
 
 extraArgs: 
   "-cert"
+extraArgs: 
   /etc/tls/tls.crt"
+extraArgs: 
   "-key"
+extraArgs: 
   /etc/tls/tls.key"
+extraArgs: 
   "-port"
+extraArgs: 
   443
   # name: ""
 
